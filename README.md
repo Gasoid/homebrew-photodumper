@@ -2,9 +2,9 @@
 
 ## How do I install these formulae?
 
-`brew install gasoid/photodumper-tap/<formula>`
+`brew install gasoid/photodumper/photodumper`
 
-Or `brew tap gasoid/photodumper-tap` and then `brew install <formula>`.
+Or `brew tap gasoid/photodumper` and then `brew install photodumper`.
 
 ## Documentation
 
