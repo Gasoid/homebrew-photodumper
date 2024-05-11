@@ -1,4 +1,4 @@
-class PhotodumperAT113 < Formula
+class Photodumper < Formula
   desc "Tool exporting photos of vk and enriching exif metadata: date and gps"
   homepage "https://github.com/Gasoid/photoDumper"
   url "https://github.com/Gasoid/photoDumper.git", tag: "1.1.3"
